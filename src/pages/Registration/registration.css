@@ -1,0 +1,9 @@
+.registration {
+  display: grid;
+  grid-template-columns: 450px 1fr;
+}
+
+.registration__sign {
+  padding: 140px 50px 90px;
+  background: var(--color-grey200);
+}
